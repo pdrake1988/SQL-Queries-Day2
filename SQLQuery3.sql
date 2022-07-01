@@ -58,3 +58,6 @@ HAVING COUNT(ProductID) > 2);
  GROUP BY Employees.City;
 
  --10
+
+ --11
+ "A great way to delete multiple rows is with a delete query that uses group by and having clause. HAVING COUNT(*) > 1"

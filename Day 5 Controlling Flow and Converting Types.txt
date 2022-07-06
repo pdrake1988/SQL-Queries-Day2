@@ -1,0 +1,12 @@
+1. It throws a dividebyzeroexception.
+2. The result is infinity.
+3. It wraps, resulting in a signed integer.
+4. y++ increments the value after it is used. ++y increments the value before it is used.
+5. break exits the loop. continue goes to the next iteration of the loop. return exits the loop
+and returns a value.
+6. The first part declares the variable. The second part sets the condition to which the loop executes.
+The third increments or decrements the variable that controls the loop.
+7. = assigns a value to a variable. The == operator is a boolean condition that checks for equality.
+8. This is an infinite while loop.
+9. 
+10. IEnumeralbe

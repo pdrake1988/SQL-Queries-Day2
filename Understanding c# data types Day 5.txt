@@ -1,0 +1,18 @@
+1.
+a. String
+b. float
+c. int
+d. string
+e. float
+f. string
+g. float
+h. float
+i. uint
+j. ulong
+k. int
+2. Value types store data directly. Reference types store the address to the data. Boxing is the 
+implicit conversion of data from value type to reference. Unboxing is the explicit conversion from 
+reference to value type.
+3. A managed resource is one that the garbage collector knows about and releases automatically. An unmanaged 
+resource is one that the garbage collector does not know about and has to release explicitly.
+4. The garbage collector is responsible for manageing and releasing memory.

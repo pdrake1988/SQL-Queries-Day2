@@ -1,0 +1,15 @@
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.exe
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.deps.json
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.runtimeconfig.json
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.dll
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\bin\Debug\net6.0\02UnderstandingTypes.pdb
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.csproj.AssemblyReference.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.AssemblyInfo.cs
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.dll
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\refint\02UnderstandingTypes.dll
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.pdb
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\02UnderstandingTypes.genruntimeconfig.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\02UnderstandingTypes\obj\Debug\net6.0\ref\02UnderstandingTypes.dll

@@ -1,0 +1,15 @@
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\bin\Debug\net6.0\Assignment03.exe
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\bin\Debug\net6.0\Assignment03.deps.json
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\bin\Debug\net6.0\Assignment03.runtimeconfig.json
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\bin\Debug\net6.0\Assignment03.dll
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\bin\Debug\net6.0\Assignment03.pdb
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.csproj.AssemblyReference.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.AssemblyInfo.cs
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.dll
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\refint\Assignment03.dll
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.pdb
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\Assignment03.genruntimeconfig.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\Assignment03\obj\Debug\net6.0\ref\Assignment03.dll

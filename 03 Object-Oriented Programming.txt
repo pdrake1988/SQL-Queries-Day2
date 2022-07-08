@@ -1,0 +1,25 @@
+1. Internal Public Private Protected Abstract Sealed
+2. It creates an instance of the class
+3. The static keyword means that a member belongs to the class itself. Const means that once a property
+is assigned a value it can't be changed. Readonly means it can't be reassigned a value outside the 
+constructor.
+4. The partial keyword separates a class definition into separate parts. 
+5. A tuple is a data set that may or may not be related to each other.
+6. 
+7. Overloading is when you define multiple versions of the same method. Overriding is where you create a different implementation of a method inside of a base class.
+8. A field is a variable declared inside of a class.
+9. You put a question mark in front of it.
+10. An interface is a contract that says a class should have various methods and properties.
+11. Public
+12. True
+13. True
+14. False
+15. True
+16. False
+17. True
+18. True
+19. False
+20. False
+21. True
+22. False
+23. True

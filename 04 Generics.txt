@@ -1,0 +1,10 @@
+1. Generics allow you to define type-safe data structures without committing to an actual data type.
+2. List<string> example = new List<string> ();
+3. 2
+4. False
+5. add();
+6. Remove and RemoveAt
+7. angle brackets
+8. False
+9. True
+10. True

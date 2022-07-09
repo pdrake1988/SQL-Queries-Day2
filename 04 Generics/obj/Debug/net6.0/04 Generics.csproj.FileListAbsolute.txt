@@ -1,0 +1,5 @@
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\04 Generics\obj\Debug\net6.0\04 Generics.csproj.AssemblyReference.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\04 Generics\obj\Debug\net6.0\04 Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\04 Generics\obj\Debug\net6.0\04 Generics.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\04 Generics\obj\Debug\net6.0\04 Generics.AssemblyInfo.cs
+C:\Users\Paul\Documents\SQL Server Management Studio\Code Snippets\SQL\Day 2\04 Generics\obj\Debug\net6.0\04 Generics.csproj.CoreCompileInputs.cache

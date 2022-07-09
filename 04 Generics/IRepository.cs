@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _04_Generics
 {
-    internal interface IRepository<T> : T where T : class
+    internal interface IRepository<T>
     {
         void Add(T item);
         IEnumerable<T> GetAll();

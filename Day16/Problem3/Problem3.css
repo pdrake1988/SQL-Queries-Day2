@@ -1,0 +1,37 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+}
+header {
+    display: flex;
+    justify-content: right;
+    align-items: end;
+    background-color: mediumblue;
+    height: auto;
+}
+header > a {
+    background-color: orange;
+    color: white;
+    padding: 8px;
+    margin: 50px;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+}
+.main > div {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    display: inline-block;
+    background-color: royalblue;
+    padding: 7px;
+}
+.active {
+    background-color: orange;
+}

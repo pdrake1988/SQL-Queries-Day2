@@ -1,0 +1,24 @@
+header {
+    background-color: mediumblue;
+}
+ul {
+    list-style-type: none;
+}
+li, a {
+    display: inline-block;
+    color: white;
+    padding: 8px;
+}
+.dropdown {
+    display: inline-block;
+    position: relative;
+}
+.dropdown > div {
+    display: none;
+    position: absolute;
+    color: black;
+    z-index: 1;
+}
+.dropdown:hover > div {
+    display: block;
+}

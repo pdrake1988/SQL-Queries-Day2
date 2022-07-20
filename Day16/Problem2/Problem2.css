@@ -1,0 +1,13 @@
+footer {
+    background-color: navy;
+}
+div > a {
+    border-bottom: black 5px;
+}
+div {
+    display: inline-block;
+    margin: 20px;
+}
+div > p, h2, a {
+    color: white;
+}

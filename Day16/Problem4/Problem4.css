@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+}
+header {
+    background: green url("images/JungleParkWhitemanEdge_Website_Article_Thumbnail.jpg") no-repeat;
+    display: grid;
+    align-items: flex-end;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 220px;
+}
+header > h1 {
+    display: inline-block;
+    grid-column-start: 3;
+    grid-column-end: 5;
+    margin: 5px;
+    padding: 20px;
+    justify-self: end;
+    align-self: end;
+}
+header > nav {
+    background-color: lightgrey;
+    height: 25px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+nav > a {
+    display: inline-block;
+    padding: 5px;
+}
+main {
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-template-rows: 10% 45% 45%;
+}
+#welcome {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+main > div {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 4;
+    height: fit-content;
+}
+.products {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 10% 90%;
+    padding: 5px;
+}
+.products > img {
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.products > h3 {
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    height: fit-content;
+}
+.products > p {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+#news {
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    padding: 20px;
+    height: fit-content;
+    width: fit-content;
+}
+#messages {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
